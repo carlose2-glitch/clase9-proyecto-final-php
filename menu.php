@@ -9,11 +9,14 @@
 <body>
     
 
-<table width="200" class="border border-black">
-    <tr>
-        <th class="border border-black"><a href="foro.php">Foro</a></th>
-        <th class="border border-black"><a href="agregar_tema.php">Agregar tema</a></th>
+<table class="border border-black mt-4">
+    <tbody class="rounded-md">
+    <tr class="text-white">
+        <th class="border border-black p-[0.5rem]"><a href="foro.php">Foro</a></th>
+        <th class="border border-black p-[0.5rem]"><a href="agregar_tema.php">Agregar tema</a></th>
     </tr>
+    </tbody>
+    
 </table>
 </body>
 </html>
